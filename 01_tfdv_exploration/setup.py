@@ -7,6 +7,6 @@ setuptools.setup(
                       'tensorflow==1.14.0',
                       'tensorflow-data-validation==0.14.1',
                       'tensorflow-transform==0.14.0',
-                      'pyarrow==0.14.0'],
+                      'pyarrow==0.15.1'],
     packages=setuptools.find_packages(),
 )
